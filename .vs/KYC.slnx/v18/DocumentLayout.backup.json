@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omkar\\Documents\\KYC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\controller\\kyccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\controller\\kyccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\service\\kycservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\service\\kycservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\interface\\ikycservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\interface\\ikycservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\models\\responsemodels\\kycverificationresposne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\models\\responsemodels\\kycverificationresposne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|c:\\users\\omkar\\documents\\kyc\\kyc\\models\\requestmodels\\kycverficationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11278ECF-305D-C2B0-578B-2965EC0641DD}|KYC\\KYC.csproj|solutionrelative:kyc\\models\\requestmodels\\kycverficationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "KYC\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Controller\\AuthController.cs*",
+              "RelativeToolTip": "KYC\\Controller\\AuthController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:22:20.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "KYC\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Service\\TokenService.cs*",
+              "RelativeToolTip": "KYC\\Service\\TokenService.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:10:53.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\appsettings.json",
+              "RelativeDocumentMoniker": "KYC\\appsettings.json",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\appsettings.json*",
+              "RelativeToolTip": "KYC\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T06:08:14.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KycController.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Controller\\KycController.cs",
+              "RelativeDocumentMoniker": "KYC\\Controller\\KycController.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Controller\\KycController.cs*",
+              "RelativeToolTip": "KYC\\Controller\\KycController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T05:45:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Program.cs",
+              "RelativeDocumentMoniker": "KYC\\Program.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Program.cs*",
+              "RelativeToolTip": "KYC\\Program.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T11:38:23.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KycService.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Service\\KycService.cs",
+              "RelativeDocumentMoniker": "KYC\\Service\\KycService.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Service\\KycService.cs",
+              "RelativeToolTip": "KYC\\Service\\KycService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T11:35:35.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IKycService.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Interface\\IKycService.cs",
+              "RelativeDocumentMoniker": "KYC\\Interface\\IKycService.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Interface\\IKycService.cs",
+              "RelativeToolTip": "KYC\\Interface\\IKycService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T10:38:55.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KYC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KYC\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T10:31:12.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KycVerificationResposne.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Models\\ResponseModels\\KycVerificationResposne.cs",
+              "RelativeDocumentMoniker": "KYC\\Models\\ResponseModels\\KycVerificationResposne.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Models\\ResponseModels\\KycVerificationResposne.cs",
+              "RelativeToolTip": "KYC\\Models\\ResponseModels\\KycVerificationResposne.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T10:24:23.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KYCVerficationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Models\\RequestModels\\KYCVerficationRequest.cs",
+              "RelativeDocumentMoniker": "KYC\\Models\\RequestModels\\KYCVerficationRequest.cs",
+              "ToolTip": "C:\\Users\\omkar\\Documents\\KYC\\KYC\\Models\\RequestModels\\KYCVerficationRequest.cs",
+              "RelativeToolTip": "KYC\\Models\\RequestModels\\KYCVerficationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T10:21:47.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
